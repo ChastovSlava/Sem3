@@ -1,0 +1,3 @@
+﻿  Povtorenie.cpp
+Povtorenie.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Student::~Student(void)" (??1Student@@QEAA@XZ) в функции "public: void * __cdecl Student::`vector deleting destructor'(unsigned int)" (??_EStudent@@QEAAPEAXI@Z).
+C:\Users\123\С\GitHubProject\TraningRepository\Home_work_3_sem\x64\Debug\Project1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
